@@ -1,0 +1,11 @@
+{
+  "name": "fastify-vite-yarn",
+  "version": "1.0.0",
+  "license": "MIT",
+  "packageManager": "yarn@4.9.1",
+  "dependencies": {
+    "@fastify/vite": "8.1.2",
+    "fastify": "5.3.2",
+    "vite": "6.3.4"
+  }
+}
